@@ -1,3 +1,4 @@
+<div style="background-color: #F5F5F5; padding: 20px; border-radius: 10px;">
 
 
 
@@ -44,3 +45,6 @@ Feel free to explore my repositories or connect with me for collaborations!
 
 
 [![](https://visitcount.itsvg.in/api?id=trungtndev&icon=6&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
