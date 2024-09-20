@@ -1,18 +1,18 @@
 
 
 
-**Talking about Personal Stuffs:**
-
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+### Hi there! 👋
+
+I'm **Trung Thanh Nguyen**, an AI/ML developer passionate about building intelligent systems that solve real-world problems. I specialize in Machine Learning, Deep Learning, and Natural Language Processing (NLP), and I enjoy working on innovative projects that push the boundaries of technology. 
+
+- 🔭 I’m currently working on projects related to computer vision and NLP.
+- 🌱 I’m constantly learning and experimenting with new architectures and algorithms.
+- 💡 I believe in the power of open-source and love to contribute to the community.
+
+Feel free to explore my repositories or connect with me for collaborations!
 
 
 
