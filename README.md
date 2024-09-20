@@ -27,7 +27,7 @@ Feel free to explore my repositories or connect with me for collaborations!
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
+  <code><img width="10%" src="[https://www.vectorlogo.zone/logos/python/python-official.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
