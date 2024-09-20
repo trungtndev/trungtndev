@@ -20,7 +20,7 @@ Feel free to explore my repositories or connect with me for collaborations!
 
 **Languages and Tools:** 
 
-<div style="margin-right: 10px>
+<div style="margin: 20px>
   <a href="https://github.com/trungtndev">
       <img width="55%" align="right" alt="Trung Thanh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=trungtndev&show_icons=true&hide_border=true&bg_color=EDEDED" />
   </a>
