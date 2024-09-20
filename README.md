@@ -1,4 +1,4 @@
-<div style="background-color: #E0E0E0; border-radius: 10px;">
+<div style="background-color: #E0E0E0; border-radius: 10px">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur](https://github.com/trungtndev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
