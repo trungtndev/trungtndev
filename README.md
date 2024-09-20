@@ -22,10 +22,7 @@ Feel free to explore my repositories or connect with me for collaborations!
   <a href="https://github.com/trungtndev">
       <img width="55%" align="right" alt="Trung Thanh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=trungtndev&show_icons=true&hide_border=true&bg_color=EDEDED" />
   </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
+  
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"></code>
   
@@ -42,8 +39,9 @@ Feel free to explore my repositories or connect with me for collaborations!
   <br />
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
-  <code><img width="5%" src="  https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
-
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
+   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
 
 </p>
 
