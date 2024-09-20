@@ -29,19 +29,24 @@ Feel free to explore my repositories or connect with me for collaborations!
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
   <br />
+  
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
   <br />
+  
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg"></code>
   <br />
+  
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+  <br />
+   
 
 </div>
 
