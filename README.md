@@ -1,4 +1,3 @@
-<div style="background-color: #E0E0E0; border-radius: 10px">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur](https://github.com/trungtndev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
@@ -20,14 +19,14 @@ Feel free to explore my repositories or connect with me for collaborations!
 
 **Languages and Tools:** 
 
-<p style="margin-right: 10px>
+<div style="margin-right: 10px>
   <a href="https://github.com/trungtndev">
       <img width="55%" align="right" alt="Trung Thanh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=trungtndev&show_icons=true&hide_border=true&bg_color=EDEDED" />
   </a>
   
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"></code>
-  
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
   <br />
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
@@ -45,11 +44,10 @@ Feel free to explore my repositories or connect with me for collaborations!
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
 
-</p>
+</div>
 
 
 
 [![](https://visitcount.itsvg.in/api?id=trungtndev&icon=6&color=0)](https://visitcount.itsvg.in)
 
-</div>
 
