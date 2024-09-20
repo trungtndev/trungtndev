@@ -20,7 +20,7 @@ Feel free to explore my repositories or connect with me for collaborations!
 
 **Languages and Tools:** 
 
-<p>
+<p style="margin-right: 10px>
   <a href="https://github.com/trungtndev">
       <img width="55%" align="right" alt="Trung Thanh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=trungtndev&show_icons=true&hide_border=true&bg_color=EDEDED" />
   </a>
@@ -43,7 +43,7 @@ Feel free to explore my repositories or connect with me for collaborations!
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
-   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
 
 </p>
 
