@@ -18,7 +18,7 @@ Feel free to explore my repositories or connect with me for collaborations!
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/onimur/handle-path-oz](https://github.com/trungtndev">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
   </a>
 
