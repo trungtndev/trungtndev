@@ -33,8 +33,10 @@ Feel free to explore my repositories or connect with me for collaborations!
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/WindiCSS-Dark.svg"></code>
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
   <br />
-  <code><img width="10%" src="[https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
+  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
+  <code><img width="10%" src="  https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
+
   
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
