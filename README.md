@@ -1,4 +1,4 @@
-<div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px;">
+<div style="background-color: #E0E0E0; border-radius: 10px;">
 
 
 
@@ -28,10 +28,13 @@ Feel free to explore my repositories or connect with me for collaborations!
   -->
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+
+  
   <br />
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/WindiCSS-Dark.svg"></code>
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+  
   <br />
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
   <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
