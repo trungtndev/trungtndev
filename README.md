@@ -26,25 +26,25 @@ Feel free to explore my repositories or connect with me for collaborations!
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
-  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"></code>
+  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"></code>
+  
+  <br />
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+  
+  <br />
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg"></code>
+  
+  <br />
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
+  <code><img width="5%" src="  https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
 
-  
-  <br />
-  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
-  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/WindiCSS-Dark.svg"></code>
-  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
-  
-  <br />
-  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
-  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
-  <code><img width="10%" src="  https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
 
-  
-  <br />
-  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg"></code>
-  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
 
