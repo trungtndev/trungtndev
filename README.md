@@ -1,4 +1,4 @@
-<div style="background-color: #F5F5F5; padding: 20px; border-radius: 10px;">
+<div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px;">
 
 
 
