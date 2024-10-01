@@ -32,9 +32,9 @@ Feel free to explore my repositories or connect with me for collaborations!
   
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+  <!--  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code> -->
   <br />
-  
+
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg"></code>
