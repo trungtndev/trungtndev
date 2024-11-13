@@ -21,38 +21,34 @@ Feel free to explore my repositories or connect with me for collaborations!
 **Languages and Tools:** 
 
 <div style="margin: 20px>
-  <a href="https://github.com/trungtndev">
-      <img width="55%" align="right" alt="Trung Thanh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=trungtndev&show_icons=true&hide_border=true&bg_color=EDEDED" />
-  </a>
+  
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=trungtndev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trungtndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </div>
   
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
-  <br />
+  <br/>
   
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
-  <!--  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code> -->
-  <br />
+  <br/>
 
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg"></code>
-  <br />
+  <br/>
   
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
   <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
-  <br />
-   
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trungtndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+  <br/>
+  
 </div>
 
 
